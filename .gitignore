@@ -1,0 +1,29 @@
+# IDE files #
+#############
+*.iml
+.idea
+.classpath
+.project
+.settings
+*.ipr
+.metadata
+
+*.bak
+*.swp
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Compiled source #
+###################
+/target/
+*.class
+*.pyc
+*.pyo

@@ -1,0 +1,23 @@
+[
+  {
+    "ref": "2A480C8A-83CA-4BB7-95B7-F19CEC97B3FD",
+    "start": "4263000000000000",
+    "end": "4263999999999999",
+    "bankName": "AIB",
+    "currencyCode": "EUR"
+  },
+  {
+    "ref": "D893D80C-E7CF-4BA7-9F26-AE289D29E136",
+    "start": "4319000000000000",
+    "end": "4319999999999999",
+    "bankName": "BOI",
+    "currencyCode": "USD"
+  },
+  {
+    "ref": "7DECD7DB-1E93-4A44-BEB9-D71E277A8239",
+    "start": "5432000000000000",
+    "end": "5432999999999999",
+    "bankName": "TSB",
+    "currencyCode": "GBP"
+  }
+]
